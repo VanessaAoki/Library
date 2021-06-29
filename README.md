@@ -6,7 +6,7 @@
     <img alt="MIT Licensed" src="https://img.shields.io/github/license/VanessaAoki/Library?style=flat-square">
   </a>
   <a href="https://github.com/VanessaAoki/Library">
-    <img alt="GitHub last commit (branch)" src="https://img.shields.io/github/last-commit/VanessaAoki/Library/development?color=blue&style=flat-square">
+    <img alt="GitHub last commit (branch)" src="https://img.shields.io/github/last-commit/VanessaAoki/Library/main?color=blue&style=flat-square">
   </a>
   <a href="https://github.com/VanessaAoki/Library">
     <img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/VanessaAoki/Library?color=pink&label=%E2%98%85%20stars%20&style=flat-square">
@@ -17,16 +17,25 @@
 </p>
 
 # Library
-Secret shop is a gaming/esports articles blog, that features News, Patch Notes, Game Releases, Upcoming Events, as well as articles for the most popular games, such as CS:GO, Valorant, Dota 2 and League of Legends.
-> The most voted articles of each category will be displayed in the main page, so be sure to vote the one you like the most!
 
 ## Built With
 
-- JavaScript;
+- HTML, CSS & JavaScript;
 - Visual Studio, Git & GitHub;
 
-## Live Server Link
-[Live demo link](https://secret-shop.herokuapp.com/)
+## Getting Started
+
+To run this project, you only need a computer with a  browser (like Google Chrome, Mozilla Firefox, Microsoft Edge, Apple Safari, etc.) installed, and follow this steps:
+
+1. In your terminal, type the following, to clone this repository:
+```
+git@github.com:VanessaAoki/Library.git
+```
+
+2. Type  `$ cd secret-shop` to move to the project folder;
+
+3. Open the `index.html` file and run the application;
+
 
 ## Author
 
