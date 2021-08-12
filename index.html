@@ -1,6 +1,5 @@
 <!DOCTYPE html>
 <html lang="en">
-
 <head>
   <meta charset="UTF-8">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
@@ -8,10 +7,29 @@
   <title>Document</title>
   <link rel="stylesheet" href="./src/styles/style.css">
 </head>
-
 <body>
-  <script src="./src/javascript/main.js"></script>
+  <header>
+
+  </header>
+  <main>
+    <section>
+      <h1>All Awesome Books</h1>
+      <div>
+        <ul class="library-container"></ul>
+      </div>
+    </section>
+    <section>
+      <form>
+        <input type="text" id="title" name="title" placeholder="Book Title" required>
+        <input type="text" id="author" name="author" placeholder="Book Author" required>
+        <input type="submit" value="Add new">
+      </form>
+    </section>
+  </main>
+  <footer>
+
+  </footer>
+  <script type="module" src="./src/javascript/main.js"></script>
   <script src="./src/libraries/luxon.js"></script>
 </body>
-
 </html>
